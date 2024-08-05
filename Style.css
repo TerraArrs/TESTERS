@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(138, 132, 109);
+}
+form{
+    width: 100%;
+    height: max-content;
+}
+input{
+    width: 30%;
+}
+h1{
+    font-size: 2vw;
+}
